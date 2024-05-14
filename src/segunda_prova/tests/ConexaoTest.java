@@ -1,7 +1,7 @@
-package prova_2.tests;
+package segunda_prova.tests;
 
 import org.junit.jupiter.api.Test;
-import prova_2.Conexao;
+import segunda_prova.Conexao;
 
 import static org.junit.jupiter.api.Assertions.*;
 

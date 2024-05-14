@@ -1,4 +1,4 @@
-package prova_2;
+package segunda_prova;
 
 import java.io.FileInputStream;
 import java.sql.Connection;
